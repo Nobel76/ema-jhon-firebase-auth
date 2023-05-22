@@ -4,3 +4,15 @@
     position: sticky;
     top: 0;
 }
+.btn-clear{
+    width: 90%;
+    height: 56px;
+    font-size: 21px;
+    margin: 10px auto;
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(139, 6, 6);
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
